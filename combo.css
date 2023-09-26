@@ -1,0 +1,17 @@
+.container{
+    width: 1240px; 
+    margin: 0 auto;
+    /* border: 1px solid red; */
+}
+.menu-img{
+    width: 64px;
+    height: 64px;
+    top: 76px;
+    left: 649px;
+    padding: 0px, 6.99px, 0px, 7px
+    
+}
+.combo-img{
+    width: 392px;
+    height: 479px;
+}
