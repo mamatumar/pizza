@@ -40,7 +40,7 @@ ol li {
 /* ////////////////////// */
 
 .menu {
-    margin-top: 40px;
+  margin-top: 40px;
   display: flex;
   justify-content: space-between;
 }
@@ -58,8 +58,8 @@ ol li {
 }
 
 .menu button:hover {
-    transition: all 1s;
-    background: var(--Accent, #e07153);
-    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.3);
-
+  transition: all 1s;
+  background: var(--Accent, #e07153);
+  box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.3);
 }
+/* /////////////////////////////////////////// */
