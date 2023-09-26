@@ -1,0 +1,29 @@
+.container {
+    width: 1240px;
+    margin: 0 auto;
+}
+
+.header {
+    display: flex;
+    gap: 62px;
+}
+
+.flex {
+    display: flex;
+    gap: 45px;
+}
+
+.flex h3 {
+    font-size: 14px;
+}
+
+.nav {
+    width: 517px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid red;
+}
+
+.flex-2 {
+    display: flex;
+}
