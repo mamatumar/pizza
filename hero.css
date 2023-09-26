@@ -1,0 +1,37 @@
+.hero-container {
+  width: 1240px;
+}
+
+.logo {
+  justify-content: center;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 51px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.hero-text {
+  margin-top: -12%;
+  color: #e07103;
+}
+
+.sushi {
+  margin-left: 250px;
+  width: 350  px;
+  height: 377px;
+  left: 47px;
+}
+.round {
+  width: 172px;
+  height: 172px;
+  top: 338px;
+  left: 100px;
+  border-radius: 200.93px;
+  padding-top: 100px;
+}
+
+.text {
+  width: 350px;
+}
